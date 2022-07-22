@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Privacy Policy"
-permalink: /privacy-policy.html
+permalink: /privacy-policy/
 ---
 
 **Privacy Policy**
