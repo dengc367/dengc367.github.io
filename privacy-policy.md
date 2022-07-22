@@ -1,3 +1,7 @@
+layout: page
+title: "Privacy Policy"
+permalink: /privacy-policy.html
+
 App Privacy Policy Generator
 Generate a generic Privacy Policy and Terms & Conditions for your apps
 Built with heart by Nishant and contributors.
